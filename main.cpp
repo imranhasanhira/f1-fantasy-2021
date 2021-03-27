@@ -1,9 +1,10 @@
+/*
+	Use just first names of the players :|
+	code can be improved both in time complexity and memory complexity
+*/
 #include<bits/stdc++.h>
 using namespace std;
 using ll = long long int;
-void solve() {
-
-}
 int main () {
 // #ifndef ONLINE_JUDGE
 // 	freopen("input.txt", "r", stdin);
